@@ -93,7 +93,7 @@ function App() {
               <span class="collaborators">MongoDB, MySQL, PostgreSQL</span>
             </li>
             <li>
-              <p>Embeded System</p>
+              <p>Embedded System</p>
               <span class="collaborators">Arduino & Raspberry Pi</span>
             </li>
             <li>
