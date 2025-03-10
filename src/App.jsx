@@ -49,6 +49,9 @@ function App() {
           </h3>
           <ul>
             <li>
+              <em>2025.03&emsp; Introduction To Cybersecurity | Cisco.</em>
+            </li>
+            <li>
               <em>
                 2025.03&emsp; Certified Cyber Security Analyst Premium Edition |
                 CyberWarfare Labs.
