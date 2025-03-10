@@ -49,6 +49,12 @@ function App() {
           </h3>
           <ul>
             <li>
+              <em>
+                2025.03&emsp; Certified Cyber Security Analyst Premium Edition |
+                CyberWarfare Labs.
+              </em>
+            </li>
+            <li>
               <em>2025.02&emsp; Cyber Threat Management | Cisco.</em>
             </li>
             <li>
